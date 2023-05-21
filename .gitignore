@@ -1,0 +1,7 @@
+.idea
+logs
+healenium/logs
+healenium/screenshots
+node_modules
+*.iml
+package-lock.json

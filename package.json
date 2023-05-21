@@ -1,0 +1,8 @@
+{
+  "name": "Protractor-Healenium-POC",
+  "version": "1.0.0",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "jasmine": "^5.0.0"
+  }
+}
