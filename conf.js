@@ -9,6 +9,6 @@ exports.config = {
         },
 
         //selenium-hub docker image running on 4444
-        seleniumAddress: 'http://localhost:4444'
+        seleniumAddress: 'http://localhost:8085'
     },
 }
